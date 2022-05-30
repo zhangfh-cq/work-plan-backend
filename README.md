@@ -6,6 +6,8 @@
 
 Gitee：[work-plan-frontend](https://gitee.com/youyouzhang/work-plan-frontend)
 
+Github：[work-plan-frontend](https://github.com/zhangfh-cq/work-plan-frontend)
+
 #### 运行
 
 新建数据库“work_plan”，打开根目录下的.env文件并配置数据库信息，
